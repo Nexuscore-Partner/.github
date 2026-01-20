@@ -1,46 +1,41 @@
 # 🚀 NEXUSCORE (넥서스코어)
 
-> **"Next Level Core, Better Lifestyle"**
-> NEXUSCORE는 모든 사람을 위한 건강한 라이프스타일과 IT 혁신을 연결하는 제품을 만듭니다.
+> **"Next Level Core, IT Innovation for Better Lifestyle"**
+> NEXUSCORE는 기술의 핵심(Core)을 탐구하고, 혁신적인 IT 솔루션을 통해 더 나은 라이프스타일을 설계하는 전략 기획 및 테크니컬 프로젝트 팀입니다.
 
 ---
 
-## 🏃‍♂️ Representative Project: 모두의핏 (Fit4All)
+## 🏛️ About NEXUSCORE
 
-NEXUSCORE의 핵심 프로젝트로, 모든 사람을 위한 체육시설 예약 및 맞춤형 운동 프로그램을 제공하는 종합 스포츠 서비스 플랫폼입니다.
-
-[![Landing Page](https://img.shields.io/badge/Website-Live_Now-4C6EF5?logo=airplay)](https://all4fit.co.kr) 
-[![Play Store](https://img.shields.io/badge/Google_Play-Get_it_on-green?logo=googleplay)](https://play.google.com/store/apps/details?id=com.fitforeveryone.app&pcampaignid=web_share)
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=apple)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%91%90%EC%9D%98-%ED%95%8F/id6754742148)
-[![Figma](https://img.shields.io/badge/Figma-Design_System-F24E1E?logo=figma)](https://www.figma.com/design/eyFKN28IKXV25Y28znWMal/%EB%AA%A8%EB%91%90%EC%9D%98%ED%95%8F---%EC%9E%91%0A%EC%97%85-%EC%A7%84%ED%96%89?node-id=106-718)
-
-### 🎨 Service Journey
-아이디어 구상부터 최종 배포까지, 우리의 기술적 여정을 담았습니다.
-
-| **1. 화면 기획서** | **2. 디자인 시스템** | **3. 랜딩 페이지** | **4. 앱 화면** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/300x200?text=Wireframe" width="200"> | <img src="https://via.placeholder.com/300x200?text=Design+System" width="200"> | <img src="https://via.placeholder.com/300x200?text=Landing+Page" width="200"> | <img src="https://via.placeholder.com/200x400?text=App+Combined" width="200"> |
-| *UX/UI 설계* | *브랜딩 가이드* | *all4fit.co.kr* | *Flutter/Supabase 앱* |
+NEXUSCORE는 사용자 중심의 사고와 견고한 기술력을 바탕으로 고도화된 플랫폼을 기획하고 총괄합니다.
+기획부터 디자인, 인프라 구축까지 서비스의 전 과정을 리딩하며 최적의 사용자 경험을 창출하는 것을 목표로 합니다.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-NEXUSCORE는 최고의 사용자 경험을 위해 현대적인 기술 스택을 활용합니다.
+NEXUSCORE는 효율적이고 안정적인 서비스 운영을 위해 현대적인 기술 생태계를 구축하고 관리합니다.
 
-### **Mobile & Backend**
-* **Framework**: Flutter (Dart)
-* **Backend**: Supabase (PostgreSQL, Auth, Storage)
-* **Notification**: Firebase (FCM)
+### **Strategic Planning & Design**
+* **Service Strategy**: 비즈니스 모델 설계 및 서비스 로드맵 구축
+* **UI/UX Design**: Figma 기반의 컴포넌트 단위 디자인 시스템 구축
+* **Product Management**: 데이터 기반의 우선순위 결정 및 전반적인 프로젝트 리딩
 
-### **Web & Infra**
-* **Landing**: Vanilla JS, HTML5, CSS3
-* **Server**: AWS EC2 (Ubuntu), Nginx
-* **DevOps**: PM2, Docker, GitHub Actions
+### **Infra & DevOps (Web)**
+* **Infrastructure**: AWS EC2 기반의 가용성 높은 서버 환경 구축
+* **Server Management**: Nginx Reverse Proxy 및 PM2를 활용한 서비스 안정화
+* **Security**: Let's Encrypt SSL 적용을 통한 보안 강화
+
+### **Mobile & Data (App)**
+* **App Architecture**: Flutter를 활용한 크로스 플랫폼 최적화 리딩
+* **Backend Integration**: Supabase(PostgreSQL) 기반의 실시간 데이터 인프라 설계
+* **Push Notification**: Firebase(FCM)를 활용한 실시간 알림 시스템 관리
 
 ---
 
 ## 👥 Core Members
+
+NEXUSCORE를 이끄는 핵심 멤버입니다.
 
 | **Lead PM / Strategy** | **Product Manager / Design** |
 | :---: | :---: |
@@ -50,9 +45,12 @@ NEXUSCORE는 최고의 사용자 경험을 위해 현대적인 기술 스택을 
 
 ---
 
-## 🤝 Partnership & Contact
-* **Development Partner**: [CLAPON](https://github.com/CLAPON-Development)
-* **Email**: [nexuscore@nexuscore.co.kr](mailto:nexuscore@nexuscore.co.kr)
+## 🤝 Partnership
+NEXUSCORE는 전문 개발사와의 협업을 통해 시너지를 창출합니다.
+* **Development Partner**: **CLAPON** (클랩온)
+
+## 📧 Contact
+* **Official Email**: [nexuscore@nexuscore.co.kr](mailto:nexuscore@nexuscore.co.kr)
 
 ---
-**NEXUSCORE | Connecting Health to Technology**
+**NEXUSCORE | Redefining the Standard of IT Projects**
